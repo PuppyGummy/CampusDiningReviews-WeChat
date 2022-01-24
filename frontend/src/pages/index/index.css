@@ -1,0 +1,25 @@
+.content {
+  display: flex;
+  background-color: #F2F2F2;
+  flex-direction: column;
+  height: 100%;
+}
+
+.filters {
+  background-color: white;
+  border-bottom-left-radius: 32px;
+  border-bottom-right-radius: 32px;
+}
+
+.content .filters {
+  padding-top: 30px;
+}
+
+.content .filters > view {
+  
+}
+
+.dishes-list {
+  flex: 1;
+  overflow: scroll;
+}

@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 16px;
+}
+
+.position {
+  display: flex;
+  align-items: center;
+}
+
+.recommendation {
+  background-color: #F7B84B;
+  padding: 8px 16px;
+  border-radius: 8px;
+  color: white;
+}

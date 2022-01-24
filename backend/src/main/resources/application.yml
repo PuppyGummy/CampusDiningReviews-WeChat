@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.0.250/canteen?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT&useSSL=false
+    username: master
+    password: H@ckath0n
